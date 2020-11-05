@@ -5,9 +5,11 @@ public class lab1 {
 		// TODO Auto-generated method stub
 		
 	// this is the first code 
-		Account acc = new Account();
+	
+	 Account acc = new Account();
 		
-	// create Scanner
+	// create Scanner for input
+	 
 		
 
 	}
