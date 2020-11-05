@@ -7,6 +7,8 @@ public class lab1 {
 	// this is the first code 
 		Account acc = new Account();
 		
+	// create Scanner
+		
 
 	}
 
