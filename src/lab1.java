@@ -5,6 +5,8 @@ public class lab1 {
 		// TODO Auto-generated method stub
 		
 	// this is the first code 
+		Account acc = new Account();
+		
 
 	}
 
